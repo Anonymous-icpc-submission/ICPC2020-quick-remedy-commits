@@ -1,8 +1,8 @@
-This replication package contains data used in the submission: "Oops, Forgot to Commit! An Empirical Study of Quick Remedy Commits".
+This replication package contains data used in the submission: "_Oops, Forgot to Commit! An Empirical Study of Quick Remedy Commits_".
 
 
 The repository contains:
 
-_systems.csv_: This csv file contains the list of 1,497 GitHub projects cloned for the analysis. 
+* [systems.csv]_: This csv file contains the list of 1,497 GitHub projects cloned for the analysis. 
 
-_tagged-commits.csv_: The list of 500 tagged commits.
+* [tagged-commits.csv]_: The list of 500 tagged commits.
