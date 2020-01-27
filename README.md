@@ -3,6 +3,6 @@ This replication package contains data used in the submission: "Oops, Forgot to 
 
 The repository contains:
 
-systems.csv: This csv file contains the list of 1,497 GitHub projects cloned for the analysis. 
+_systems.csv_: This csv file contains the list of 1,497 GitHub projects cloned for the analysis. 
 
-tagged-commits.csv: The list of 500 tagged commits.
+_tagged-commits.csv_: The list of 500 tagged commits.
